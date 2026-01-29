@@ -1,0 +1,4 @@
+Continent,sum(population),avg(LifeExpectancy)
+Europe,730074600,75.14773
+"North America",482993000,72.99189
+"South America",345780000,70.94615

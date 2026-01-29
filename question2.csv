@@ -1,0 +1,5 @@
+continent,count(name)
+Africa,58
+Asia,51
+Europe,46
+"North America",37
